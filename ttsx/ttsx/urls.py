@@ -21,7 +21,7 @@ urlpatterns = [
 
     url(r'^user$', include(tt_user.url)),
 
-    url(r'^good/', include(tt_goods.url)),
+
 
 
 ]
